@@ -1,12 +1,12 @@
-# Revista ESPAÑA (1915-1924) - Análisis Musical
+# Revista ESPAÑA (1915-1924) - Noticias, artículos y referencias musicales
 
 ## Búsqueda de referencias y noticias sobre música
 
-Interfaz web para la búsqueda y exploración de contenido musical de la revista España, publicada en Madrid entre 1915 y 1924. Este proyecto forma parte del análisis de publicaciones musicales españolas históricas.
+Interfaz web para la búsqueda y exploración de contenido musical de la revista España, publicada en Madrid entre 1915 y 1924. Este proyecto forma parte del análisis de publicaciones musicales españolas históricas realizadas por el proyecto LexiMus desde la Universidad de Salamanca.
 
 ## Características
 
-- **310 números de revista** analizados
+- **310 números de revista** con contenido musical de algún tipo
 - **132,182 palabras totales** en el corpus
 - **19,297 palabras únicas** identificadas
 - Búsqueda en tiempo real de contenido
@@ -23,9 +23,11 @@ La revista España fue una publicación cultural y política de gran importancia
 - Noticias sobre compositores y intérpretes
 - Análisis de la vida musical madrileña y española
 - Referencias a la música internacional
+- Referencias y términos musical en contextos literarios, políticos, poéticos, y otros.
 
 ## Tecnología
 
+- Claude Code
 - HTML5, CSS3 y JavaScript vanilla
 - Datos embebidos para funcionamiento sin servidor
 - Procesamiento de texto mediante análisis de corpus
